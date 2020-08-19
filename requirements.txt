@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+torch==1.5.1
+gym
+box2d-py
